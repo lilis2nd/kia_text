@@ -24,7 +24,7 @@ Kia will need to verify your identity before processing your requests to exceris
 * If you have visited our websites, we may have collected information about the device you used to engage with our websites. Such information may not be tied to other personal information (such as your name, postal address, email address, etc.) that Kia holds about you, and we therefore may not be able to associate the information with you. You may exercise your privacy rights for device-level data by engaging with the consent management platform displayed when you enter our websites.
 
 
-# #gdpaModal
+# #gdprModal
 ## GDPR Compliance Statement
 Kia Motors Corporation("Kia") is committed to ensuring the security and protection of the personal information we process, and to provide a compliant and consistent approach to data protection.
 
